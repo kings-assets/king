@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://revive2-0ug.space/sitemap.xml
